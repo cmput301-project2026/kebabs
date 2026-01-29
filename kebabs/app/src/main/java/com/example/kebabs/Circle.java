@@ -1,4 +1,4 @@
 package com.example.kebabs;
 
-public class Circle {
+public class Circle extends Shape{
 }
