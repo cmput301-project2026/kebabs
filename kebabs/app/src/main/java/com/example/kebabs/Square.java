@@ -1,4 +1,5 @@
 package com.example.kebabs;
 
-public class Square {
+public class Square extends Shape{
+    String color = "Lime Yellow";
 }
