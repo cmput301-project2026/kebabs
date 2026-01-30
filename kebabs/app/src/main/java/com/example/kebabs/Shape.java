@@ -1,5 +1,5 @@
 package com.example.kebabs;
 
 public class Shape {
-    String color = "blue";
+    String color = "red";
 }
