@@ -1,6 +1,7 @@
-# kebabs
-Lab 4 Participation Exercise
+# Kebabs
 
+## Lab 4 Participation Exercise
 
-CCID: ibrahi10
-Branch: Ibrahim
+### Student Information
+- **CCID:** ibrahi10
+- **Branch:** Ibrahim
